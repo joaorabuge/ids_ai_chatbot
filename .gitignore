@@ -1,0 +1,12 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# Node modules
+client/node_modules/
+
+# Environment variables
+.env
